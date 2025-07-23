@@ -1,0 +1,5 @@
+name: eo-summer-school
+channels:
+ - conda-forge
+dependencies:
+ - numpy
