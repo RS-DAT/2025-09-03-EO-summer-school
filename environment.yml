@@ -7,3 +7,5 @@ dependencies:
  - geopandas
  - scikit-learn
  - matplotlib
+ - pip:
+    - graphviz
