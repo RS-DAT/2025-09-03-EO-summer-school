@@ -2,4 +2,8 @@ name: eo-summer-school
 channels:
  - conda-forge
 dependencies:
- - numpy
+ - python=3.10
+ - rioxarray
+ - geopandas
+ - scikit-learn
+ - matplotlib
