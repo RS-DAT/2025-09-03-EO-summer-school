@@ -10,10 +10,10 @@ During this workshop, we will use a simple machine learning model as an example 
 
 In the `notebook` directory, we prepared two example:
 
-- step1_train_on_coutout.ipynb: training a simple binary classifier on a RGB cutout;
-- step2_step2_prediction_on_large_data.ipynb: apply the trained model on a 1.5 GB RGB image;
+- step1_train_on_cutout.ipynb: training a simple binary classifier on a RGB cutout;
+- step2_prediction_on_large_data.ipynb: apply the trained model on a 1.5 GB RGB image;
 
-Besides the examples, in `data_preparation/data_preparation.ipynb` the process of generating the exmaple RGB image is demonstrated.
+Besides the examples, in `data_preparation/data_preparation.ipynb` the process of generating the example RGB image is demonstrated.
 
 ## Data
 
